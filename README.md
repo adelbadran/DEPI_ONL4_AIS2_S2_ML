@@ -1,4 +1,4 @@
-# DEPI_ONL4_AIS2_S2: Machine Learning & Python
+# DEPI_ONL4_AIS2_S2: Microsoft Machine Learning
 
 ## 🚀 Project Overview
 This repository serves as a centralized hub for all projects, assignments, and labs completed during the **Digital Egypt Pioneers Initiative (DEPI)**. The primary objective of this track is mastering **Python for Data Science** and implementing **Machine Learning** algorithms to solve complex, real-world problems.
