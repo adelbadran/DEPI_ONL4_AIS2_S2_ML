@@ -17,8 +17,6 @@ The repository is organized to separate foundational learning from advanced mode
 | Category | Tools/Libraries |
 | :--- | :--- |
 | **Language** | Python 3.x |
-| **Data Manipulation** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Jupyter Notebook, VS Code |
 
 ---
