@@ -1,4 +1,4 @@
-# 🐍 Python for Data Science
+# 🐍 Python
 This directory contains the foundational Python coursework for the **Microsoft Machine Learning** track. It progresses from basic syntax to Object-Oriented Programming (OOP) principles.
 
 ---
